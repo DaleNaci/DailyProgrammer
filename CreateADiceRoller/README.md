@@ -1,13 +1,9 @@
 <h1>[2018-06-18] Challenge #364 [Easy] Create a Dice Roller</h1>
-<br>
 <h3>Description</h3>
 <p>I love playing D&D with my friends, and my favorite part is creating character sheets (my DM is notorious for killing us all off by level 3 or so). One major part of making character sheets is rolling the character's stats. Sadly, I have lost all my dice, so I'm asking for your help to make a dice roller for me to use!</p>
-<br>
 <h2>Formal Inputs & Outputs</h2>
-<br>
 <h3>Input description</h3>
 <p>Your input will contain one or more lines, where each line will be in the form of "NdM"; for example:</p>
-<br>
 3d6<br>
 4d12<br>
 1d10<br>
